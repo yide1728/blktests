@@ -1,0 +1,10 @@
+Running scsi/001
+                          0x0
+AAAAAAAA BBBBBBBBBBBBBBBB 0x0
+HITACHI  OPEN-V           0x20000
+         Scanner          0x1
+Inateck                   0x0
+Promise  STEX             0x40
+HITA     OPEN-V           0x0
+ABCD     Scanner          0x0
+Test complete
